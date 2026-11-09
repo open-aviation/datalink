@@ -4,18 +4,21 @@
         <loc>https://mode-s.org/datalink/</loc>
       </url>
       <url>
+        <loc>https://mode-s.org/datalink/config/</loc>
+      </url>
+      <url>
+        <loc>https://mode-s.org/datalink/decode/</loc>
+      </url>
+      <url>
         <loc>https://mode-s.org/datalink/getting-started/</loc>
       </url>
       <url>
         <loc>https://mode-s.org/datalink/install/</loc>
       </url>
       <url>
-        <loc>https://mode-s.org/datalink/sources/</loc>
-      </url>
-      <url>
         <loc>https://mode-s.org/datalink/output/</loc>
       </url>
       <url>
-        <loc>https://mode-s.org/datalink/config/</loc>
+        <loc>https://mode-s.org/datalink/sources/</loc>
       </url>
 </urlset>
